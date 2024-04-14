@@ -1,7 +1,7 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Bruci87&fontSize=30&fontColor=000&animation&twnikling&fontAlingY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Bruci87&fontSize=30&fontColor=fff&animation&twnikling&fontAlingY=35"/>
 
 ![Home](https://github.com/Bruci87/Bruci87/assets/116919319/89f45fe5-ded0-47ac-973c-62857c6886c0)
   
