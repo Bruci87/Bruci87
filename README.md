@@ -15,9 +15,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+                                    Over The Garden
+![image](https://github.com/user-attachments/assets/e884359d-eff6-473a-8df6-49a6f3a2a3f4)
+Ass: Bruci
 
-
-https://www.pixilart.com/draw/a-ferabeta-sr2bb46e5c320aws3
+Link do meu pixel art: https://www.pixilart.com/draw/a-ferabeta-sr2bb46e5c320aws3
 
 ### Principais habilidades:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
