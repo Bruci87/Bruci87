@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Home](https://github.com/Bruci87/Bruci87/assets/116919319/89f45fe5-ded0-47ac-973c-62857c6886c0)
+
 
 
 ### Principais habilidades:
