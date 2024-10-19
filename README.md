@@ -44,7 +44,6 @@ Link do meu pixel art: https://www.pixilart.com/draw/a-ferabeta-sr2bb46e5c320aws
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=SQLite&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![Jupter](![image](https://github.com/user-attachments/assets/967500cc-1ade-4e46-9b61-687fbe2cd5be)&nbsp;
 
 
 <div align="center">
