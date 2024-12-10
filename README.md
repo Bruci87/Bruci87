@@ -16,7 +16,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
                                     
-![image](https://github.com/user-attachments/assets/e884359d-eff6-473a-8df6-49a6f3a2a3f4)
+
 Ass: Bruci
 
 Link do meu pixel art: https://www.pixilart.com/draw/a-ferabeta-sr2bb46e5c320aws3
