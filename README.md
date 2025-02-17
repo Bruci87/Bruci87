@@ -4,15 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Bruci87&fontSize=30&fontColor=fff&animation&twnikling&fontAlingY=35"/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Silvio;I'm+from+Natal-RN(Brazil)+;I+do+Systems+Analysis+and+Development+(TADS-TSAD);Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-                                    
+                          
 
 Ass: Bruci
 
