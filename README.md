@@ -5,6 +5,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Silvio;I'm+from+Natal-RN(Brazil)+;I+do+Systems+Analysis+and+Development+(TADS-TSAD);Welcome!+:%29)](https://git.io/typing-svg)
                           
+Jogue o Jogo da Forca aqui: [[Link para o seu GitHub Pages]](https://bruci87.github.io/GameForca/)
 
 
 
