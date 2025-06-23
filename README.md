@@ -1,9 +1,9 @@
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <div style="text-align: center;">
     <img src="https://i.imgur.com/i3sbNAX.gif" alt="Pixel Art GIF" style="max-width: 100%; height: auto;" />
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 <p style="text-align: center;">
     [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruci;I+study+analysis+and+systems+development;Be+Welcome!+:%29)]
 </p>
