@@ -1,4 +1,4 @@
-
+[URL=https://www.animatedimages.org/cat-dividing-lines-134.htm][IMG]https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0097.gif[/IMG][/URL]
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruci;I+study+analysis+and+systems+development;Be+Welcome!+:%29)
 
 
