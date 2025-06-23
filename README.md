@@ -1,5 +1,5 @@
 
-    ![animated-dividing-line-image-0097](https://github.com/user-attachments/assets/81575f20-25ef-4653-a578-4858051f3732)
+![animated-dividing-line-image-0097](https://github.com/user-attachments/assets/4c5d6ff8-aa19-4e4f-bb8c-85381299202a)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruci;I+study+analysis+and+systems+development;Be+Welcome!+:%29)]
 
