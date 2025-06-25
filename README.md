@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="#mais-info">
-    <img src="MinhaGif.gif" width="500"/>
+    <img src="MinhaGif.gif" width="300"/>
   </a>
 </p>
 
