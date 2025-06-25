@@ -7,10 +7,11 @@
 </p>
 ---
 
-## <a id="mais-info"></a>📚 Mais Informações
+<p align="center">
+  <a href="#mais-info">
+    <img src="lobo.png" alt="Lobo que desce" width="100"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github.com/Bruci87/Bruci87/blob/main/MinhaGif.gif" width="50%" alt="Pixel Art Programador" />
-</div>
 
 
