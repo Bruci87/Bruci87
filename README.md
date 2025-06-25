@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="#mais-info">
-    <img src="Minha.png" alt="Seta para baixo" width="40"/>
+    <img src="Minha.png" width="40"/>
   </a>
 </p>
 
