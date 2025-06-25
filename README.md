@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#mais-info">
-    <img src="lobo.png" alt="Lobo que desce" width="100"/>
+    <img src="assets/lobo.png" alt="Lobo que desce" width="100"/>
   </a>
 </p>
 
