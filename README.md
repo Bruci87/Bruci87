@@ -7,12 +7,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/32px-Arrow-down.svg.png" alt="Seta para baixo" />
   </a>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
 <p align="center">
   <a href="#mais-info">
     <img src="MinhaGif.gif" width="300"/>
   </a>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
+
 
 
 
