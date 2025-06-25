@@ -1,12 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=header"/>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=500&lines=HELLO,+MY+NAME+is+Bruci+ou+Silvio+Bruciaferro;I+study+analysis+and+systems+development;Be+Welcome!+:%29)
-
-<p align="center">
-  <a href="#mais-info">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/32px-Arrow-down.svg.png" alt="Seta para baixo" />
-  </a>
-</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
 <p align="center">
   <a href="#mais-info">
