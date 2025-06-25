@@ -5,13 +5,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/32px-Arrow-down.svg.png" alt="Seta para baixo" />
   </a>
 </p>
----
-
 <p align="center">
   <a href="#mais-info">
-    <img src="Lobo.png" alt="Lobo que desce" width="100"/>
+    <img src="Minha.png" alt="Seta para baixo" width="40"/>
   </a>
 </p>
+
+
+
 
 
 
