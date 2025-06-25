@@ -11,6 +11,8 @@
 
 ## <a id="mais-info"></a>📚 Mais Informações
 
-Aqui você coloca o restante do conteúdo do seu README, como projetos, experiências, etc.
+<div align="center">
+  <img src="https://github.com/Bruci87/Bruci87/blob/main/MinhaGif.gif" width="50%" alt="Pixel Art Programador" />
+</div>
 
 
