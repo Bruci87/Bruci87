@@ -2,4 +2,15 @@
 <div align="center">
   <img src="https://github.com/Bruci87/Bruci87/blob/main/MinhaGif.gif" width="50%" alt="Pixel Art Programador" />
 </div>
+<p align="center">
+  <a href="#mais-info">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/32px-Arrow-down.svg.png" alt="Seta para baixo" />
+  </a>
+</p>
+---
+
+## <a id="mais-info"></a>📚 Mais Informações
+
+Aqui você coloca o restante do conteúdo do seu README, como projetos, experiências, etc.
+
 
