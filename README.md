@@ -8,7 +8,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
 <p align="center">
   <a href="#mais-info">
-    <img src="MinhaGif.gif" width="300"/>
+    <img src="MinhaGif.gif" width="200" height="100"/>
   </a>
 </p>
 
