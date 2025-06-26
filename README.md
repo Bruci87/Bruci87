@@ -6,11 +6,26 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruci87&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
-<p align="center">
+
+<details>
+  <summary>
+    <p align="center">
   <a href="#mais-info">
     <img src="MinhaGif.gif" width="200" height="100"/>
   </a>
 </p>
+  </summary>
+
+  <p align="center">
+    👋 Olá! Aqui está um conteúdo oculto que aparece só depois do clique!
+  </p>
+
+  - Projeto 1  
+  - Projeto 2  
+  - Projeto 3  
+
+</details>
+
 
 
 
