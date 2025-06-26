@@ -11,7 +11,7 @@
   <summary>
     <p align="center">
   <a href="#mais-info">
-    <img src="MinhaGif.gif" width="200" height="100"/>
+    <img src="MinhaGif.gif" width="300" height="100"/>
   </a>
 </p>
   </summary>
