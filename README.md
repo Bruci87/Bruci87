@@ -24,7 +24,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruci87}/count.svg" /></p> 
 <br></div>  
- Jogue aqui:  https://bruci87.github.io/GameForca/
+
 </details>
 
 
