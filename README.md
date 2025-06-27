@@ -6,6 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruci87&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
+     Click aqui
 
 <details>
   <summary>
@@ -14,7 +15,6 @@
     <img src="MinhaGif.gif" width="1000" height="200"/>
   </a>
 </p>
-     Click aqui
   </summary>
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruci87&bg_color=000000&color=FF0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
