@@ -14,8 +14,8 @@
     <img src="MinhaGif.gif" width="1000" height="200"/>
   </a>
 </p>
+     Click aqui
   </summary>
-    Click aqui
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruci87&bg_color=000000&color=FF0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
