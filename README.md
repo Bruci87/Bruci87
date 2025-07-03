@@ -16,7 +16,6 @@
   </a>
 </p>
   </summary>
- Jogue aqui:  https://bruci87.github.io/GameForca/
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bruci87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -24,7 +23,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruci87}/count.svg" /></p> 
 <br></div>  
-
+Jogue aqui:  https://bruci87.github.io/GameForca/
 </details>
 
 
