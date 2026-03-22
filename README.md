@@ -6,5 +6,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark">
 </p>
