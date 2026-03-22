@@ -1,0 +1,39 @@
+<svg width="400" height="200" viewBox="-20 -20 40 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bat {
+      width: 1px;
+      height: 1px;
+      fill: transparent;
+      animation: flap 0.3s steps(1) infinite;
+    }
+    @keyframes flap {
+      0%, 100% {
+        /* Frame 1: Asas para Cima - Design mais denso */
+        box-shadow: 
+          0 -3px #fff, -1 -4px #fff, 1 -4px #fff, -2 -5px #fff, 2 -5px #fff,
+          -1 -2px #f00, 1 -2px #f00, 0 -2px #fff,
+          -1 -1px #fff, 0 -1px #fff, 1 -1px #fff, -2 -1px #fff, 2 -1px #fff,
+          -1 0 #fff, 0 0 #fff, 1 0 #fff, -2 0 #fff, 2 0 #fff,
+          0 1px #fff, -1 1px #fff, 1 1px #fff, 0 2px #fff,
+          /* Asa Esquerda */
+          -3 -2 #fff, -4 -3 #fff, -5 -4 #fff, -6 -5 #fff, -7 -6 #fff, -6 -4 #fff, -5 -3 #fff, -4 -2 #fff,
+          /* Asa Direita */
+          3 -2 #fff, 4 -3 #fff, 5 -4 #fff, 6 -5 #fff, 7 -6 #fff, 6 -4 #fff, 5 -3 #fff, 4 -2 #fff;
+      }
+      50% {
+        /* Frame 2: Asas para Baixo */
+        box-shadow: 
+          0 -3px #fff, -1 -4px #fff, 1 -4px #fff, -2 -5px #fff, 2 -5px #fff,
+          -1 -2px #f00, 1 -2px #f00, 0 -2px #fff,
+          -1 -1px #fff, 0 -1px #fff, 1 -1px #fff, -2 -1px #fff, 2 -1px #fff,
+          -1 0 #fff, 0 0 #fff, 1 0 #fff, -2 0 #fff, 2 0 #fff,
+          0 1px #fff, -1 1px #fff, 1 1px #fff, 0 2px #fff,
+          /* Asa Esquerda descendo */
+          -3 0 #fff, -4 1 #fff, -5 2 #fff, -6 3 #fff, -7 4 #fff, -6 2 #fff, -5 1 #fff, -4 0 #fff,
+          /* Asa Direita descendo */
+          3 0 #fff, 4 1 #fff, 5 2 #fff, 6 3 #fff, 7 4 #fff, 6 2 #fff, 5 1 #fff, 4 0 #fff;
+      }
+    }
+  </style>
+  <rect class="bat" x="0" y="0" />
+</svg>
