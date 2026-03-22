@@ -5,3 +5,4 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=150&section=header&text=Welcome&fontSize=35&fontColor=ffffff" />
