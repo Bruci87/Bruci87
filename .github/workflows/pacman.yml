@@ -1,0 +1,25 @@
+name: pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Pacman
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Bruci87
+          outputs: dist/pacman.svg
+
+      - name: Push to branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
