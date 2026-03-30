@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman.svg">
+  <img src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman.svg">
 </p>
 
 <p align="center">
