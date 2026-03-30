@@ -7,4 +7,6 @@
 </p>
 
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá%2C%20eu%20sou&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
