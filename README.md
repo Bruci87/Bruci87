@@ -6,9 +6,9 @@
   <img src="https://github.com/user-attachments/assets/0d7b2a74-536b-4888-8c8e-1612eb4034b2" width="150">
 </p>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/FF6B35/benjamin-solano" alt="Benjamin's GitHub chart">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/pacman.svg">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer"/>
