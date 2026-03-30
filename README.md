@@ -6,20 +6,10 @@
   <img src="https://github.com/user-attachments/assets/0d7b2a74-536b-4888-8c8e-1612eb4034b2" width="150">
 </p>
 
-
-
-
-
-
-
-
-
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/github-snake.svg" />
 </picture>
 
 
