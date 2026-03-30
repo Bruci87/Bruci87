@@ -7,6 +7,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Explorando+código+e+construindo+coisas;Apaixonado+por+tecnologia+e+criatividade;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=45&color=6C63FF&vCenter=true&size=22&pause=1000">
-</p>
+
