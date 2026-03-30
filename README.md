@@ -5,5 +5,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d7b2a74-536b-4888-8c8e-1612eb4034b2" width="150">
 </p>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+code+and+building+things;Full+Stack+Developer;Always+learning+new+tech&center=true&width=500&height=50&font=Fira%20Code&size=20">
+</h3>
 
