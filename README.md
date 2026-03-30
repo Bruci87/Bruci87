@@ -9,10 +9,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruci87&theme=tokyo-night">
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer"/>
 </p>
 
