@@ -7,9 +7,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://ghchart.rshah.org/FF6B35/benjamin-solano" alt="Benjamin's GitHub chart">
+</div>>
 
 
 
