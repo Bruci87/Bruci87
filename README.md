@@ -8,9 +8,6 @@
 
 
 
-<p align="center">
-  <i>"Código limpo não é luxo, é disciplina."</i>
-</p>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/FF6B35/benjamin-solano" alt="Benjamin's GitHub chart">
