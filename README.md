@@ -8,15 +8,8 @@
 
 SEPARAÇÃO
 
-# ⚡ Benjamin Solano
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Systems%20Engineering-Student-orange?style=flat-square&logo=codeigniter&logoColor=white&color=FF6B35">
-  <img src="https://img.shields.io/badge/ICPC-2025%20Competitor-orange?style=flat-square&logo=icpc&logoColor=white&color=FF6B35">
-  <img src="https://img.shields.io/badge/Costa%20Rica-San%20José-orange?style=flat-square&logo=googlemaps&logoColor=white&color=FF6B35">
-</p>
 
----
 
 ## 🧩 Sobre mim
 
