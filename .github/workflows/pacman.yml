@@ -13,7 +13,7 @@ jobs:
       - name: Generate Pacman
         uses: Platane/snk@v3
         with:
-          github_user_name: Bruci87
+          github_user_name: silviobruciaferro
           outputs: dist/pacman.svg
 
       - name: Push to branch
