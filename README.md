@@ -35,7 +35,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&hide_title=true" />
 
 
 
