@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/BEM--VINDO%20AO%20QUARTEL--GENERAL-000?style=for-the-badge&logo=github&logoColor=white" alt="Badge de Boas-Vindas"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F39C12&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Sistemas;Entusiasta+de+Machine+Learning;Analista+de+Dados" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/WELCOME%20TO%20MY%20COMMAND%20CENTER-000?style=for-the-badge&logo=github&logoColor=white" alt="Welcome Badge"/>
 </p>
 <br>
 <p align="center">
