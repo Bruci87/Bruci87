@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=header"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
