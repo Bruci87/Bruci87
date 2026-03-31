@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
 </div>
@@ -13,13 +19,8 @@
 </p>
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
 
 
 
