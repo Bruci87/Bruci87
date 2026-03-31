@@ -35,7 +35,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruci87&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=3382ed&icon_color=3382ed&hide_title=true" alt="Minhas Linguagens" />
+  <img src="https://github-readme-stats-one-tau.vercel.app/api/top-langs/?username=Bruci87&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 
