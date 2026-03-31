@@ -34,8 +34,9 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruci87&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=3382ed&icon_color=3382ed&hide_title=true" alt="Minhas Linguagens" />
+</div>
 
 
 
