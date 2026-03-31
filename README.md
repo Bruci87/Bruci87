@@ -1,12 +1,11 @@
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BEM-VINDO%20AO%20QUARTEL-GENERAL&fontSize=30&animation=fadeIn&fontAlignY=35"/>
 </p>
 <br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Exploring+code+and+building+projects;Always+learning+new+things">
+</div>
 
 
 <p align="center">
