@@ -1,5 +1,11 @@
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WELCOME%20TO%20MY%20COMMAND%20CENTER-000?style=for-the-badge&logo=github&logoColor=white" alt="Welcome Badge"/>
@@ -15,15 +21,6 @@
   <img src="https://github.com/user-attachments/assets/0d7b2a74-536b-4888-8c8e-1612eb4034b2" width="150">
 </p>
 
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
