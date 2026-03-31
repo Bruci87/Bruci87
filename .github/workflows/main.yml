@@ -1,32 +1,33 @@
-name: generate-assets
+name: Generate Pacman Graph
 
 on:
   schedule:
+    # Roda automaticamente a cada 24 horas
     - cron: "0 0 * * *" 
-  workflow_dispatch:
+  workflow_dispatch: # Permite que você rode manualmente na aba Actions
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - uses: actions/checkout@v3
+      # 1. Clona o seu repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      # Este é o "Gerador" de verdade que falta no seu código:
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3
+      # 2. Gera o gráfico do Pacman (O gerador oficial)
+      - name: generate-pacman-contribution-graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Bruci87
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Este passo salva o resultado para você poder usar no README
-      - name: push assets to output branch
+      # 3. Envia o arquivo gerado para a branch 'output'
+      - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
