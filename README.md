@@ -17,7 +17,7 @@
   <img src="https://github.com/user-attachments/assets/0d7b2a74-536b-4888-8c8e-1612eb4034b2" width="150">
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&hide_title=true" />
+
 
 <p align="center">
   <picture>
@@ -26,6 +26,7 @@
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&hide_title=true" />
 
 
 
