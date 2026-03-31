@@ -14,7 +14,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
 </picture>
+
 <img src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/github-contribution-grid-snake.svg?v=2">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+</p>
 
 
 
