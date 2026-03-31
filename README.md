@@ -10,8 +10,13 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg" style="filter: invert(1) hue-rotate(180deg);">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Bruci87/Bruci87/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 
