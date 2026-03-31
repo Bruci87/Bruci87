@@ -34,9 +34,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats-one-tau.vercel.app/api/top-langs/?username=Bruci87&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
+
 
 
 
