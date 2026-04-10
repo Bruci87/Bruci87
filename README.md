@@ -31,12 +31,16 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-[![Luau](https://img.shields.io/badge/LUAU-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](LINK_PARA_SEUS_PROJETOS_LUAU)
+
 
 <div align="center">
   <details>
     <summary></summary>
-  Ola, teste. 
+ Exploring the data universe. 🚀
+ Passionate about Machine Learning and Data Science. Competitive Programming athlete in my spare time, focused on solving challenges that demand high performance   and sharp logic.
+        [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-gomes-        bruciaferro-295b9a272/)
+   [![Pixilart](https://img.shields.io/badge/PIXILART-E74C3C?style=for-the-badge&logo=artstation&logoColor=white)](https://www.pixilart.com/bruce87)
+  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviogomes1408@gmail.com)
   </details>
 </div>
 
