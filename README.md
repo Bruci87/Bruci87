@@ -35,10 +35,7 @@
 <div align="center">
   <details>
     <summary></summary>
-    <br>
-    
-
-    
+  
   </details>
 </div>
 
