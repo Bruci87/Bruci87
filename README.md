@@ -38,9 +38,10 @@
     <summary></summary>
  Exploring the data universe. 🚀
  Passionate about Machine Learning and Data Science. Competitive Programming athlete in my spare time, focused on solving challenges that demand high performance   and sharp logic.
-        [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-gomes-        bruciaferro-295b9a272/)
-   [![Pixilart](https://img.shields.io/badge/PIXILART-E74C3C?style=for-the-badge&logo=artstation&logoColor=white)](https://www.pixilart.com/bruce87)
-  [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviogomes1408@gmail.com)
+ E-mail: silviogomes1408@gmail.com
+ Pixelart: https://www.pixilart.com/bruce87
+ Linkedin: https://www.linkedin.com/in/bruce-undefined-032b40401/
+        
   </details>
 </div>
 
