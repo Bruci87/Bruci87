@@ -34,7 +34,7 @@
 <details open>
 <div align="center">
   <details>
-    <summary>▼</summary>
+    <summary></summary>
     <br>
     
 
