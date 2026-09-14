@@ -37,11 +37,15 @@
   <details>
     <summary></summary>
  Exploring the data universe. 🚀
+    <br>
  Passionate about Machine Learning and Data Science. Competitive Programming athlete in my spare time, focused on solving challenges that demand high performance   and sharp logic.
+    <br>
  E-mail: silviogomes1408@gmail.com
+    <br>
  Pixelart: https://www.pixilart.com/bruce87
+    <br>
  Linkedin: https://www.linkedin.com/in/bruce-undefined-032b40401/
-        
+        <br>
   </details>
 </div>
 
